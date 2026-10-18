@@ -8,7 +8,17 @@
       "Read(./**/.env.*)",
       "Read(./secrets/**)",
       "Read(./**/*.pem)",
-      "Read(./**/*.key)"
+      "Read(./**/*.key)",
+      "Read(./**/*.p12)",
+      "Read(./**/credentials*.json)",
+      "Bash(cat .env*)",
+      "Bash(type .env*)",
+      "Bash(more .env*)",
+      "Bash(less .env*)",
+      "Bash(head .env*)",
+      "Bash(tail .env*)",
+      "Bash(Get-Content .env*)",
+      "mcp__Interactive_Brokers_IBKR__get_order_instructions"
     ]
   }
 }
