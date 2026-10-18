@@ -24,5 +24,5 @@ When creating PRs:
 1. **Plan first** - `/plan` (planner agent)
 2. **TDD** - `/tdd` (tdd-guide agent)
 3. **Verify** - `/verify`
-4. **Review** - `/code-review` (code-reviewer, plus security-reviewer for sensitive code)
+4. **Review** - `/trade-review` (code-reviewer, plus security-reviewer for sensitive code)
 5. **Commit & push** - conventional commit messages

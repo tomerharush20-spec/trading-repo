@@ -37,4 +37,4 @@ Do **NOT** write any code until the user explicitly confirms the plan.
 After the plan is approved:
 - `/tdd` to implement test-first
 - `/verify` to run quality gates
-- `/code-review` to review the completed change
+- `/trade-review` to review the completed change

@@ -2,7 +2,7 @@
 description: Security, trading-safety, and quality review of uncommitted changes.
 ---
 
-# Code Review
+# Trade Review
 
 Use the **code-reviewer** agent to review uncommitted changes:
 

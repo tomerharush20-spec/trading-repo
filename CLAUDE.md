@@ -18,7 +18,7 @@ Trading project. Bugs here can lose real money, so safety rules below are non-ne
 
 ## Workflow
 
-`/plan` -> `/tdd` -> `/verify` -> `/code-review`
+`/plan` -> `/tdd` -> `/verify` -> `/trade-review`
 
 Agents in `.claude/agents/`: `planner`, `tdd-guide`, `code-reviewer`, `security-reviewer`.
 
