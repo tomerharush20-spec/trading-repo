@@ -6,7 +6,7 @@ description: Security, trading-safety, and quality review of uncommitted changes
 
 Use the **code-reviewer** agent to review uncommitted changes:
 
-1. Get changed files: `git diff --name-only HEAD`
+1. Get changed files: `git diff --name-only HEAD` plus new untracked files: `git ls-files --others --exclude-standard`
 
 2. For each changed file, check the code-reviewer agent's checklist:
    - Trading safety (CRITICAL)
