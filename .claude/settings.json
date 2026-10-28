@@ -18,7 +18,17 @@
       "Bash(head .env*)",
       "Bash(tail .env*)",
       "Bash(Get-Content .env*)",
-      "mcp__Interactive_Brokers_IBKR__get_order_instructions"
+      "mcp__Interactive_Brokers_IBKR__get_order_instructions",
+      "mcp__alpaca__close_all_positions",
+      "mcp__alpaca__cancel_all_orders",
+      "mcp__alpaca__place_option_order",
+      "mcp__alpaca__place_crypto_order"
+    ],
+    "ask": [
+      "mcp__alpaca__place_stock_order",
+      "mcp__alpaca__replace_order_by_id",
+      "mcp__alpaca__cancel_order_by_id",
+      "mcp__alpaca__close_position"
     ]
   }
 }

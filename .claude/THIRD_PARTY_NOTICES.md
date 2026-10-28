@@ -17,3 +17,11 @@ Upstream: https://github.com/affaan-m/everything-claude-code
 | `rules/*.md` | Adapted |
 
 Upstream hooks, scripts, and MCP configs were intentionally **not** imported.
+
+## day-trader-skill
+
+The eleven `skills/trader-*` folders are copied unchanged from
+**day-trader-skill** by Jake Schincariol (MIT, see `skills/DAY_TRADER_SKILL_LICENSE`),
+https://github.com/Jakeschincariol/day-trader-skill at commit `3d0f4ef`
+(v2.0.0). The upstream tests and fixtures were not imported; its 315 tests
+passed on that commit before the copy.

@@ -34,3 +34,6 @@ data/raw/
 .DS_Store
 .idea/
 .vscode/
+
+# day-trader-skill working folder (config with SEC user agent, trade state)
+trader/
